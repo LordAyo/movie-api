@@ -38,9 +38,9 @@ This project is a Node.js-based API backend for a movie database application. It
 The API connects to a MySQL database with the following credentials:
 
 - **Host**: gbc.goodcodeclub.com
-- **User**: w25_101571659
-- **Password**: w25_101571659
-- **Database**: w25_101571659_a3
+- **User**: w25_STUDENT ID
+- **Password**: w25_STUDENT ID
+- **Database**: w25_STUDENT ID_a3
 
 ### Installation
 
@@ -61,9 +61,9 @@ npm i nodemon -g
 
 ```
 SQL_HOSTNAME=gbc.goodcodeclub.com
-SQL_USERNAME=w25_101571659
-SQL_PASSWORD=w25_101571659
-SQL_DBNAME=w25_101571659_a3
+SQL_USERNAME=w25_STUDENT ID
+SQL_PASSWORD=w25_STUDENT ID
+SQL_DBNAME=w25_STUDENT ID_a3
 ```
 
 ### Running the Application
