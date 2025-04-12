@@ -10,7 +10,6 @@ project-root/
 │   └── main.js         # Main application with all endpoints
 ├── .env                # Environment variables
 ├── package.json        # Project dependencies
-├── database-setup.sql  # SQL setup script (optional)
 └── README.md           # Documentation
 ```
 
