@@ -80,7 +80,17 @@ Or use npm:
 npm run dev
 ```
 
-The API will be available at `http://localhost:3001`.
+## Testing the API
+
+The API is deployed and accessible at: 
+https://friendly-tribble-56rr6x4rpgrcvxrr-3001.app.github.dev
+
+All endpoints can be tested using this base URL, for example:
+- GET https://friendly-tribble-56rr6x4rpgrcvxrr-3001.app.github.dev/api/movies
+- GET https://friendly-tribble-56rr6x4rpgrcvxrr-3001.app.github.dev/api/movies/1
+- GET https://friendly-tribble-56rr6x4rpgrcvxrr-3001.app.github.dev/api/genres
+
+For local development, the API would run on https://localhost:3001
 
 ## API Endpoints
 
